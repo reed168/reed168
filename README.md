@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Reed
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning c++
